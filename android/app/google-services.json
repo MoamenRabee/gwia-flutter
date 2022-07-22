@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592926273894",
+    "project_id": "gwia-7a07b",
+    "storage_bucket": "gwia-7a07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592926273894:android:7588b2918ece0f681658a7",
+        "android_client_info": {
+          "package_name": "com.example.gwia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592926273894-5vg3ocj1ljk3b3v26sq55u17hgflrbui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gwia",
+            "certificate_hash": "827133dfd074d967fa0d1d4090f2def830cccbfb"
+          }
+        },
+        {
+          "client_id": "592926273894-imleobi4tfu16qudnijj24m6dpq3vqeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0M6VmA5FTlu0NeJQ16NDwCCf_PeMeE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592926273894-imleobi4tfu16qudnijj24m6dpq3vqeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
